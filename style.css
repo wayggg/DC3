@@ -119,3 +119,13 @@ footer a:hover {
         margin-bottom: 20px;
     }
 }
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('your-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #e5e5e7;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
